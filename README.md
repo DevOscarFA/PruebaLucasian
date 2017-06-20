@@ -48,3 +48,7 @@ Ruta: EjercicioLucasian/src/hibernate.cfg.xml
 <property name="connection.username">{USUARIO_BASE_DATOS}</property>
 
 <property name="connection.password">{CONTRASEÑA_BASE_DATOS}</property>
+```
+7. Ejecutar la clase App.java en la siguiente ubicacion para correr el proyecto
+
+Ruta: EjercicioLucasian/src/main/java/com/lucasian/App.java
