@@ -1,0 +1,2 @@
+cod5;nombre5;NI;4823451;PU;X;NULL;NULL;30012e016 {FechaFusion=30012e016 Fecha incorrecta (DDMMYYYY)}
+cod3;nombre3;PA;4851894;eMI;X;NULL;X;14092016 {Naturaleza=eMI Formato incorrecto}
